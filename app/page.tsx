@@ -8,6 +8,7 @@ export default function Home() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carbon Footprint AI Chatbot - Aether</title>
+    <link rel = "stylesheet" href = "globals.css">
     <style>
         body {
             font-family: Arial, sans-serif;
